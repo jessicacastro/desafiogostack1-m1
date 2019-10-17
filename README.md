@@ -42,3 +42,6 @@ server.post('/projects/:id/tasks');
 - Nodemon
 - Express
 - Node.js
+
+Feito com :hearts: by Jessica Castro 
+Me visite no ![Linkedin](https://www.linkedin.com/in/jessica-castro-7a12b67a/) 
