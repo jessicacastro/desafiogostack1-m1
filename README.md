@@ -3,7 +3,7 @@
 
 ##### :pencil2: SOBRE O DESAFIO:
 
-desafio da turma Go Stack 9 da Rocketseat. Consiste em uma API para adição, edição, visualização e remoção de projetos e suas tarefas, do zero. Não há conexão com banco de dados. 
+Desafio da turma Go Stack 9 da Rocketseat. Consiste em uma API para adição, edição, visualização e remoção de projetos e suas tarefas, do zero. Não há conexão com banco de dados. 
 
 ###### :pushpin: MÉTODOS UTILIZADOS (HTTP), DESCRIÇÃO E ROTAS:
 - [x] Listar todos os projetos
