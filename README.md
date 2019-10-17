@@ -1,5 +1,5 @@
-# :new_moon: Desafio Go Stack 
-## Primeiro desafio - Módulo 1 
+# :new_moon: Desafio GoStack 
+## Primeiro Desafio - Módulo 1 
 
 ##### :pencil2: SOBRE O DESAFIO:
 
