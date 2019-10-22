@@ -30,7 +30,9 @@ checkIfProjectExists = (req, res, next) => {
 logMiddleware = (req, res, next) => {
   requestNumber++;
 
+  console.log("Request");
   console.log(`Número de requisições realizadas: ${requestNumber}`);
+  console.log(`Método: ${req.method}. URL: ${req.url}`);
 
   return next();
 }
